@@ -2,7 +2,7 @@
 This repository contains reusable Python code snippets for data cleaning, manipulation, and visualization.
 
 ## Contents
-- Python_basics : Basics of Python code
+- Basics of Python code
 - Data cleaning functions
 - Data manipulation examples
 - Basic visualization templates
