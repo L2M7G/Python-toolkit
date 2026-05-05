@@ -11,4 +11,9 @@ This is a personal reference toolkit developed while learning Python, following 
 
 ### Courses
 - Introduction to Python
+- Intermediate Python
+- Data Manipulation with pandas
+- Joining Data with pandas
+- Introduction to Data Visualization with Seaborn
+- Introduction to Statistics in Python
 - ...
